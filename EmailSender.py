@@ -4,7 +4,7 @@ import smtplib
 
 # Set your email address and password
 your_email = "your email"
-your_password = "app password"
+your_password = "gmail app password"
 
 # Create a server object and log in
 server = smtplib.SMTP("smtp.gmail.com", 587)
